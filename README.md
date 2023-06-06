@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Binari Dissanayake</h1>
-<h3 align="center">IT Undergraduate University of Moratuwa</h3>
+<h1 align="left">Hi 👋, I'm Binari Dissanayake</h1>
+<h3 align="left">IT Undergraduate University of Moratuwa</h3>
 
 - 🔭 I’m currently studying for **Bsc. (Hons.) in IT at University of Moratuwa**
 
